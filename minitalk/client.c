@@ -6,7 +6,7 @@
 /*   By: amayuk <amayuk@student.42istanbul.com.t    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/24 16:40:38 by amayuk            #+#    #+#             */
-/*   Updated: 2024/05/02 17:22:08 by amayuk           ###   ########.fr       */
+/*   Updated: 2024/05/16 20:23:12 by amayuk           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,7 +42,7 @@ int	ft_atoi(char *str)
 }
 
 void	bitwise(int pid, char c)
-{  
+{
 	int	i;
 
 	i = 0;
