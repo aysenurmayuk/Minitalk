@@ -1,4 +1,4 @@
-# Minitalk Project
+# Project
 
 The Minitalk project is a fundamental part of the 42 school curriculum, designed to introduce students to inter-process communication (IPC) and signal handling in Unix-like operating systems using the C programming language. In this project, students are tasked with implementing a simple client-server messaging application using signals.
 
